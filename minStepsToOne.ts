@@ -1,4 +1,3 @@
-let myName: string = "saif"
 let memo:number[] = []
 function getMinSteps(n: number): number{   
     if(memo.length<n){

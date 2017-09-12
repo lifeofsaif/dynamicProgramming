@@ -1,4 +1,3 @@
-var myName = "saif";
 var memo = [];
 function getMinSteps(n) {
     if (memo.length < n) {

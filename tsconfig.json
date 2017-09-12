@@ -7,6 +7,7 @@
         , "sourceMap": true
     }
     , "files": [
-        "minStepsToOne.ts"
+        
+        "theCoinChangeProblem.ts"
     ]
 }
