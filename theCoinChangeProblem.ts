@@ -1,7 +1,30 @@
+/*
+    Dynamic Programming Day Two.
+    
+    You have  types of coins available in infinite quantities where the
+    value of each coin is given in the array . Can you determine the
+    number of ways of making change for  units using the given types of
+    coins? For example, if , and , we can make change for  units in
+    three ways: , , and .
+
+    Given , , and , print the number of ways to make change for  units
+    using any number of coins having the values given in .
+*/
+
+/*
+    Notes: This one was a really dynamic programming - ish problem. 
+    -A good way to approach these recursion problems is to make tree 
+    work first, and then move on to memoizing it.
+    -its weird how we had to minimize the change, and use up the coins, 
+    which was the effect of dealing with two variables. It is important 
+    to recognize when two or more variables are at play in terms of 
+    memoizing. 
+    - once recognizing the variables at play, and drawing out and 
+    implementing the recursion tree functionally, we can move on to 
+    memoizing/optimizing
 
 
-
-
+*/
 
 function solve(c:number[], n:number, memo:number[][]):number{
     

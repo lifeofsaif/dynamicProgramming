@@ -7,7 +7,6 @@
         , "sourceMap": true
     }
     , "files": [
-        
-        "theCoinChangeProblem.ts"
+        "equal.ts"
     ]
 }

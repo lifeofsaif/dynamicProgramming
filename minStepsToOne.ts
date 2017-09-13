@@ -1,3 +1,10 @@
+/* 
+    Dynamic Programming Day One. 
+    this program really could have been done greedily
+    whatever it was cool to learn
+    yolo
+*/
+
 let memo:number[] = []
 function getMinSteps(n: number): number{   
     if(memo.length<n){

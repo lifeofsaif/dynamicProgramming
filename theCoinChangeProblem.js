@@ -30,4 +30,3 @@ function coinChallenge(c, n) {
     return solve(c, n, memo);
 }
 console.log(coinChallenge([2, 3, 5, 6], 10));
-//# sourceMappingURL=theCoinChangeProblem.js.map
