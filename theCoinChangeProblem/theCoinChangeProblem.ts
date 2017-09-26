@@ -22,8 +22,6 @@
     - once recognizing the variables at play, and drawing out and 
     implementing the recursion tree functionally, we can move on to 
     memoizing/optimizing
-
-
 */
 
 function solve(c:number[], n:number, memo:number[][]):number{
