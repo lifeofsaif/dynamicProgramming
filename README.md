@@ -1,7 +1,10 @@
-HackerRank/Interview Prep Problems
+# HackerRank/Interview Prep Problems
 
-incomplete problems: 
-dynamicProgramming >> kingdomDivision
-
-incomplete test implementations:
+#### Incomplete/Incorrect Problem Implementations: 
+```
+1. dynamicProgramming/kingdomDivision
+```
+#### Incomplete Test Implementations:
+```
 all
+```
